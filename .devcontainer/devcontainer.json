@@ -1,0 +1,13 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}"ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+"ghcr.io/devcontainers-extra/features/aws-cdk:2": {}
+"ghcr.io/casl0/devcontainer-features/android-sdk:1": {}
+"ghcr.io/wxw-matt/devcontainer-features/apt:0": {}
+"ghcr.io/devcontainers-extra/features/cve-bin-tool:1": {}
+"ghcr.io/lee-orr/rusty-dev-containers/cargo-expand:0": {}
+"ghcr.io/devcontainers/features/common-utils:2": {}
+"ghcr.io/devcontainers-extra/features/json-server:1": {}
+"ghcr.io/devcontainers/features/python:1": {}
+"ghcr.io/devcontainers-extra/features/qrcode:2": {}
